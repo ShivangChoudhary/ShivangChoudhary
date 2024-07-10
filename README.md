@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="shivangchoudhary" /> </p>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **Software Projects**
 
 - 🌱 I’m currently learning **Flutter and Rest API**
 
